@@ -1,0 +1,11 @@
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\bin\Debug\Constantorvowel.exe.config
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\bin\Debug\Constantorvowel.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\bin\Debug\Constantorvowel.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.csproj.AssemblyReference.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.Form1.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.Properties.Resources.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.csproj.GenerateResource.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.csproj.CoreCompileInputs.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Switch Statements\Constantorvowel\Constantorvowel\obj\Debug\Constantorvowel.exe.config

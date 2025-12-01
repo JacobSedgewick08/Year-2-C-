@@ -1,0 +1,11 @@
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\bin\Debug\Ticketsales.exe.config
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\bin\Debug\Ticketsales.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\bin\Debug\Ticketsales.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.csproj.AssemblyReference.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.form1.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.Properties.Resources.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.csproj.GenerateResource.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.csproj.CoreCompileInputs.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Ticketsales\Ticketsales\obj\Debug\Ticketsales.exe.config

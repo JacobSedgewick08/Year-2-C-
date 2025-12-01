@@ -1,0 +1,11 @@
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\bin\Debug\Buyingcement.exe.config
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\bin\Debug\Buyingcement.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\bin\Debug\Buyingcement.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.csproj.AssemblyReference.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.Form1.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.Properties.Resources.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.csproj.GenerateResource.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.csproj.CoreCompileInputs.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\Simple Calculations\Buyingcement\Buyingcement\obj\Debug\Buyingcement.exe.config

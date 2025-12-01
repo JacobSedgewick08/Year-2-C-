@@ -1,0 +1,11 @@
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\bin\Debug\Bankwithdrawal.exe.config
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\bin\Debug\Bankwithdrawal.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\bin\Debug\Bankwithdrawal.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.csproj.AssemblyReference.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.Form1.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.Properties.Resources.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.csproj.GenerateResource.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.csproj.CoreCompileInputs.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.exe
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.pdb
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 2\IF Statements\Bankwithdrawal\Bankwithdrawal\obj\Debug\Bankwithdrawal.exe.config
