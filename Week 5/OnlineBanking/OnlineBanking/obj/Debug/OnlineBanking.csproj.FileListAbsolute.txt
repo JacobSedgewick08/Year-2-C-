@@ -1,0 +1,5 @@
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 5\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.AssemblyReference.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 5\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Form1.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 5\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.Properties.Resources.resources
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 5\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.GenerateResource.cache
+C:\Users\m2401123\OneDrive - Middlesbrough College\Documents\C# Programming\Week 5\OnlineBanking\OnlineBanking\obj\Debug\OnlineBanking.csproj.CoreCompileInputs.cache
